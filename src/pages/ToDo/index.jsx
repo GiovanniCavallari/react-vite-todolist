@@ -59,7 +59,7 @@ function ToDo() {
           placeholder="Type here..."
           onChange={(e) => handleChange(e)}
         />
-        <Button onClick={handleClick}>Adicionar</Button>
+        <Button onClick={handleClick}>Add</Button>
       </div>
 
       <List items={items} onFinish={finishItem} onRemove={removeItem} />

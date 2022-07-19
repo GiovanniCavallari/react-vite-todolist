@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test List Component should click on callbacks 1`] = `[Function]`;
+
+exports[`Test List Component should render correctly 1`] = `[Function]`;

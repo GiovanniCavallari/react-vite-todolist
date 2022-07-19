@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test ToDo Page should add a new item on to do list 1`] = `[Function]`;
+
+exports[`Test ToDo Page should finish an item on to do list 1`] = `[Function]`;
+
+exports[`Test ToDo Page should remove an item on to do list 1`] = `[Function]`;
+
+exports[`Test ToDo Page should render correctly 1`] = `[Function]`;

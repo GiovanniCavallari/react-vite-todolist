@@ -8,7 +8,11 @@ function Button({ children, type, onClick }) {
   const buttonType = types.includes(type) ? type : 'neutral';
 
   return (
-    <button className={`btn btn-${buttonType}`} onClick={onClick}>
+    <button
+      className={`btn btn-${buttonType}`}
+      onClick={onClick}
+      data-testid="button"
+    >
       {children}
     </button>
   );

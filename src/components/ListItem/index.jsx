@@ -7,7 +7,7 @@ import './styles.css';
 
 function ListItem({ text, done, onFinish, onRemove }) {
   return (
-    <div className="list-item-container">
+    <div className="list-item-container" data-testid="list-item">
       <p className={`list-item-text ${done && 'done'}`}>{text}</p>
 
       <div className="list-item-button-container">

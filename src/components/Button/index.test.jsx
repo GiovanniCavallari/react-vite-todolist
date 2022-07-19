@@ -46,4 +46,16 @@ describe('Test Button Component', () => {
     expect(asFragment).toMatchSnapshot();
     expect(element.className).toContain('btn-danger');
   });
+
+  it('should click on button', () => {
+    const component = <Button onClick={onClick}>{children}</Button>;
+
+    const { asFragment, getByText } = render(component);
+    const element = getByText(children);
+
+    element.click();
+
+    expect(asFragment).toMatchSnapshot();
+    expect(onClick).toBeCalled();
+  });
 });
