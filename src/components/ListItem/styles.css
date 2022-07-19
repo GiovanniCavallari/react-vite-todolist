@@ -1,0 +1,25 @@
+.list-item-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+  border: 1px solid #ccc;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+.list-item-container:not(:first-child) {
+  margin-top: -1px;
+}
+
+.list-item-text {
+  font-size: 14px;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.list-item-button-container button:first-child {
+  margin-right: 8px;
+}

@@ -1,0 +1,18 @@
+.todo-container {
+  width: 50%;
+  height: 100vh;
+  padding: 32px;
+  margin: 0 auto;
+}
+
+.todo-container h1 {
+  margin: 0 0 48px;
+}
+
+.todo-form-container{
+  margin: 0 0 48px;
+}
+
+.todo-form-container input {
+  margin: 0 0 16px;
+}
