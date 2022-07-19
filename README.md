@@ -2,8 +2,7 @@
 
 ## Table of Contents
 - [Description](#description)
-- [Install dependencies](#description)
-- [Start app on localhost](#description)
+- [Setup](#setup)
 
 ## Description
 
@@ -28,5 +27,5 @@ npm install
 ### 3. Start app on localhost
 
 ```
-npm run dev
+npm run preview
 ```
