@@ -2,8 +2,10 @@
 
 rm -rf deploy/*
 npm run build
-cp -R ./dist/ ./deploy/
+cp -R dist/ deploy/
 
 git add .
 git commit -am 'Deploy to github pages' --no-verify
 git push
+
+rm -rf dist/
