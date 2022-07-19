@@ -2,19 +2,17 @@
 
 #  React Vite - To Do List
 
+Project to test the [Vite](https://vitejs.dev/) tool for generating React JS applications.
+
 ## Table of Contents
 - [Description](#description)
 - [Setup](#setup)
 - [Build](#build)
 - [Development](#development)
 
-## Description
-
-Project to test the [Vite](https://vitejs.dev/) tool for generating React JS applications.
+## Setup
 
 > Required Node.js version >=14.18.0
-
-## Setup
 
 ###  1. Clone the repository
 
