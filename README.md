@@ -1,4 +1,4 @@
-# React Vite - To Do List
+# !(Vite logo)[https://vitejs.dev/logo-with-shadow.png] React Vite - To Do List
 
 ## Table of Contents
 - [Description](#description)
