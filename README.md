@@ -4,7 +4,7 @@
 
 Project to test the [Vite](https://vitejs.dev/) tool for generating React JS applications.
 
-See and interact with the project hosted on [Netlify](https://www.netlify.com/): [https://grran-reactvite-todolist.netlify.app/](https://grran-reactvite-todolist.netlify.app/)
+See and interact with the project hosted on [Netlify](https://www.netlify.com/): [TO DO LIST](https://grran-reactvite-todolist.netlify.app/)
 
 ## Table of Contents
 - [Description](#description)
