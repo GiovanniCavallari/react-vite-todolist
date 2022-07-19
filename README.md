@@ -1,5 +1,4 @@
-<img src="docs/assets/vite-logo.png" width="40px" height="auto">
-<img src="./docs/assets/react-logo.png" width="40px" height="auto">
+<img src="docs/assets/vite-logo.png" width="40px" height="auto"> <img src="./docs/assets/react-logo.png" width="40px" height="auto">
 
 #  React Vite - To Do List
 
