@@ -40,6 +40,20 @@ npm run build
 
 ## Development
 
+Run application:
+
 ```
 npm run dev
+```
+
+Run linter:
+
+```
+npm run lint:js
+```
+
+Run tests:
+
+```
+npm run test
 ```
